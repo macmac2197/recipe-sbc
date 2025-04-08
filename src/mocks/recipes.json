@@ -1,0 +1,26 @@
+[
+  {
+    "id": "111",
+    "name": "Spaghetti Carbonara",
+    "email": "chef@example.com",
+    "title": "Spaghetti Carbonara",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis augue eget risus tincidunt fermentum. Nulla facilisi. Aenean eget auctor eros. Fusce et velit felis. Donec non bibendum risus. Proin ac suscipit tortor. Nam vulputate est a erat varius, vel dictum nulla tincidunt. Nunc in tincidunt turpis. Phasellus nec orci eu metus maximus fermentum. Curabitur malesuada est ut urna sodales, et egestas velit luctus.",
+    "ingridients": "Spaghetti, Eggs, Parmesan cheese, Bacon, Garlic, Black pepper",
+    "instructions": "Boil the pasta. Cook the bacon. Mix eggs and cheese. Combine all ingredients.",
+    "image": "/images/recipe.jpg",
+    "isFavorite": false,
+    "createdDate": "2025-04-07"
+  },
+  {
+    "id": "123",
+    "name": "Chicken Alfredo",
+    "email": "chef@example.com",
+    "title": "Chicken Alfredo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis augue eget risus tincidunt fermentum. Nulla facilisi. Aenean eget auctor eros. Fusce et velit felis. Donec non bibendum risus. Proin ac suscipit tortor. Nam vulputate est a erat varius, vel dictum nulla tincidunt. Nunc in tincidunt turpis. Phasellus nec orci eu metus maximus fermentum. Curabitur malesuada est ut urna sodales, et egestas velit luctus.",
+    "ingridients": "Chicken breast, Fettuccine, Alfredo sauce, Parmesan cheese, Garlic",
+    "instructions": "Cook the chicken. Boil pasta. Prepare the sauce and mix.",
+    "image": "/images/recipe.jpg",
+    "isFavorite": true,
+    "createdDate": "2025-04-07"
+  }
+]

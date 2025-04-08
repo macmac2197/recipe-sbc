@@ -1,0 +1,40 @@
+{
+  "name": "myrecipe-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.0.1",
+    "@mui/material": "^7.0.1",
+    "@reduxjs/toolkit": "^2.6.1",
+    "@types/lodash.debounce": "^4.0.9",
+    "formidable": "^3.5.2",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
+    "next": "15.2.4",
+    "notistack": "^3.0.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-form-hook": "^0.0.1",
+    "react-hook-form": "^7.55.0",
+    "react-redux": "^9.2.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/formidable": "^3.4.5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "typescript": "^5"
+  }
+}
